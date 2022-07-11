@@ -1,0 +1,42 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://www.wikidata.org/entity/Q1628290> a n4sch:Topic;
+  n4sch:prefLabel "Neo4j";
+  n4sch:altLabel "https://en.wikipedia.org/wiki/Neo4j";
+  n4sch:name "Q1628290";
+  n4sch:broader <http://www.wikidata.org/entity/Q595971> .
+
+<http://www.wikidata.org/entity/Q595971> a n4sch:Topic;
+  n4sch:name "Q595971";
+  n4sch:prefLabel "graph database";
+  n4sch:altLabel "https://en.wikipedia.org/wiki/Graph_database";
+  n4sch:broader <http://www.wikidata.org/entity/Q176165> .
+
+<http://www.wikidata.org/entity/Q176165> a n4sch:Topic;
+  n4sch:altLabel "https://en.wikipedia.org/wiki/Database_management_system";
+  n4sch:name "Q176165";
+  n4sch:prefLabel "database management system" .
+
+<http://www.wikidata.org/entity/Q10858568> a n4sch:Topic;
+  n4sch:altLabel "https://en.wikipedia.org/wiki/Couchbase_Server";
+  n4sch:name "Q10858568";
+  n4sch:broader <http://www.wikidata.org/entity/Q176165>, <http://www.wikidata.org/entity/Q1235236>;
+  n4sch:prefLabel "Couchbase Server" .
+
+<http://www.wikidata.org/entity/Q1235236> a n4sch:Topic;
+  n4sch:name "Q1235236";
+  n4sch:altLabel "https://en.wikipedia.org/wiki/Document-oriented_database";
+  n4sch:prefLabel "document-oriented database";
+  n4sch:broader <http://www.wikidata.org/entity/Q176165> .
+
+<http://www.wikidata.org/entity/Q3932296> a n4sch:Topic;
+  n4sch:name "Q3932296";
+  n4sch:prefLabel "relational database management system";
+  n4sch:broader <http://www.wikidata.org/entity/Q176165>;
+  n4sch:altLabel "https://en.wikipedia.org/wiki/Relational_database_management_system" .
+
+<http://www.wikidata.org/entity/Q1165204> a n4sch:Topic;
+  n4sch:prefLabel "MongoDB";
+  n4sch:broader <http://www.wikidata.org/entity/Q1235236>, <http://www.wikidata.org/entity/Q176165>;
+  n4sch:altLabel "https://en.wikipedia.org/wiki/MongoDB";
+  n4sch:name "Q1165204" .
