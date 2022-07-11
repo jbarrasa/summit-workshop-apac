@@ -1,0 +1,670 @@
+﻿article_uri,topicName,topic_uri
+https://dev.to/lirantal/securing-a-nodejs--rethinkdb--tls-setup-on-docker-containers,default value,http://www.wikidata.org/entity/Q281782
+https://dev.to/lirantal/securing-a-nodejs--rethinkdb--tls-setup-on-docker-containers,NoSQL database management system,http://www.wikidata.org/entity/Q82231
+https://dev.to/lirantal/securing-a-nodejs--rethinkdb--tls-setup-on-docker-containers,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/lirantal/securing-a-nodejs--rethinkdb--tls-setup-on-docker-containers,Transport Layer Security,http://www.wikidata.org/entity/Q206494
+https://dev.to/lirantal/securing-a-nodejs--rethinkdb--tls-setup-on-docker-containers,RethinkDB,http://www.wikidata.org/entity/Q20890659
+https://dev.to/setevoy/neo4j-running-in-kubernetes-e4p,Linux,http://www.wikidata.org/entity/Q388
+https://dev.to/setevoy/neo4j-running-in-kubernetes-e4p,RTFM,http://www.wikidata.org/entity/Q1060967
+https://dev.to/setevoy/neo4j-running-in-kubernetes-e4p,Cypher Query Language,http://www.wikidata.org/entity/Q16834355
+https://dev.to/setevoy/neo4j-running-in-kubernetes-e4p,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/setevoy/neo4j-running-in-kubernetes-e4p,Kubernetes,http://www.wikidata.org/entity/Q22661306
+https://dev.to/setevoy/neo4j-running-in-kubernetes-e4p,Neo4j,http://www.wikidata.org/entity/Q1628290
+https://dev.to/divyanshutomar/introduction-to-redis-3m2a,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/divyanshutomar/introduction-to-redis-3m2a,xnxx.com,http://www.wikidata.org/entity/Q57013596
+https://dev.to/divyanshutomar/introduction-to-redis-3m2a,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/divyanshutomar/introduction-to-redis-3m2a,Memcached,http://www.wikidata.org/entity/Q306661
+https://dev.to/divyanshutomar/introduction-to-redis-3m2a,Redis,http://www.wikidata.org/entity/Q2136322
+https://dev.to/zaiste/15-git-commands-you-may-not-know-4a8j,Magit,http://www.wikidata.org/entity/Q52157847
+https://dev.to/zaiste/15-git-commands-you-may-not-know-4a8j,command-line interface,http://www.wikidata.org/entity/Q189053
+https://dev.to/zaiste/15-git-commands-you-may-not-know-4a8j,Git,http://www.wikidata.org/entity/Q186055
+https://dev.to/alexjitbit/removing-files-from-mercurial-history-1b15,Git,http://www.wikidata.org/entity/Q186055
+https://dev.to/alexjitbit/removing-files-from-mercurial-history-1b15,Bitbucket,http://www.wikidata.org/entity/Q2493781
+https://dev.to/alexjitbit/removing-files-from-mercurial-history-1b15,Subversion,http://www.wikidata.org/entity/Q46794
+https://dev.to/alexjitbit/removing-files-from-mercurial-history-1b15,Mercurial,http://www.wikidata.org/entity/Q476543
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,CVS Pharmacy,http://www.wikidata.org/entity/Q2078880
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,OpenJDK,http://www.wikidata.org/entity/Q1461054
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,Linux,http://www.wikidata.org/entity/Q388
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,VHS,http://www.wikidata.org/entity/Q183976
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,Vim,http://www.wikidata.org/entity/Q131382
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,Git,http://www.wikidata.org/entity/Q186055
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,Betamax,http://www.wikidata.org/entity/Q690148
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,PRS Guitars,http://www.wikidata.org/entity/Q1346893
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,version control,http://www.wikidata.org/entity/Q189439
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,Mercurial,http://www.wikidata.org/entity/Q476543
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,distributed revision control system,http://www.wikidata.org/entity/Q1186723
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,Atlassian,http://www.wikidata.org/entity/Q757307
+https://dev.to/michelemauro/atlassian-sunsetting-mercurial-support-in-bitbucket-2ga9,Bitbucket,http://www.wikidata.org/entity/Q2493781
+https://dev.to/shirou/back-up-prometheus-records-to-s3-via-kinesis-firehose-54l4,Amazon S3,http://www.wikidata.org/entity/Q2593067
+https://dev.to/shirou/back-up-prometheus-records-to-s3-via-kinesis-firehose-54l4,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/shirou/back-up-prometheus-records-to-s3-via-kinesis-firehose-54l4,JSON-LD,http://www.wikidata.org/entity/Q6108942
+https://dev.to/shirou/back-up-prometheus-records-to-s3-via-kinesis-firehose-54l4,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/shirou/back-up-prometheus-records-to-s3-via-kinesis-firehose-54l4,Prometheus,http://www.wikidata.org/entity/Q52534999
+https://dev.to/shirou/back-up-prometheus-records-to-s3-via-kinesis-firehose-54l4,Tokyo,http://www.wikidata.org/entity/Q1490
+https://dev.to/shirou/back-up-prometheus-records-to-s3-via-kinesis-firehose-54l4,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,HTTPS,http://www.wikidata.org/entity/Q44484
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Angular,http://www.wikidata.org/entity/Q28925578
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,user interface,http://www.wikidata.org/entity/Q47146
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,iPhone,http://www.wikidata.org/entity/Q2766
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Adobe,http://www.wikidata.org/entity/Q11463
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,software as a service,http://www.wikidata.org/entity/Q1254596
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,.NET,http://www.wikidata.org/entity/Q21622213
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Windows Phone,http://www.wikidata.org/entity/Q4885200
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Cascading Style Sheets,http://www.wikidata.org/entity/Q46441
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,iOS,http://www.wikidata.org/entity/Q48493
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Android,http://www.wikidata.org/entity/Q94
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,progressive web app,http://www.wikidata.org/entity/Q23679990
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Wisconsin,http://www.wikidata.org/entity/Q1537
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Untappd,http://www.wikidata.org/entity/Q7897568
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,jQuery,http://www.wikidata.org/entity/Q230036
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Pluralsight,http://www.wikidata.org/entity/Q19757566
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Ionic,http://www.wikidata.org/entity/Q17576071
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,ASP.NET MVC Framework,http://www.wikidata.org/entity/Q581643
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Madison,http://www.wikidata.org/entity/Q43788
+https://dev.to/ionic/farewell-phonegap-reflections-on-my-hybrid-app-development-journey-10dh,Apache Cordova,http://www.wikidata.org/entity/Q16626338
+https://dev.to/rootsami/rancher-kubernetes-on-openstack-using-terraform-1ild,Kubernetes,http://www.wikidata.org/entity/Q22661306
+https://dev.to/rootsami/rancher-kubernetes-on-openstack-using-terraform-1ild,Terraform,http://www.wikidata.org/entity/Q28957072
+https://dev.to/rootsami/rancher-kubernetes-on-openstack-using-terraform-1ild,OpenStack,http://www.wikidata.org/entity/Q1470293
+https://dev.to/rootsami/rancher-kubernetes-on-openstack-using-terraform-1ild,computer file,http://www.wikidata.org/entity/Q82753
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,information technology,http://www.wikidata.org/entity/Q11661
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,INSERT,http://www.wikidata.org/entity/Q1076017
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,MongoDB,http://www.wikidata.org/entity/Q1165204
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,relational model,http://www.wikidata.org/entity/Q755662
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,Transport Layer Security,http://www.wikidata.org/entity/Q206494
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,Amazon,http://www.wikidata.org/entity/Q3884
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,JOIN,http://www.wikidata.org/entity/Q2003535
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,MySQL,http://www.wikidata.org/entity/Q850
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,data,http://www.wikidata.org/entity/Q42848
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,Oracle,http://www.wikidata.org/entity/Q19900
+https://dev.to/jignesh_simform/comparing-mongodb--mysql-bfa,SELECT,http://www.wikidata.org/entity/Q1164001
+https://dev.to/nipeshkc7/dynamodb-the-basics-360g,NoSQL database management system,http://www.wikidata.org/entity/Q82231
+https://dev.to/nipeshkc7/dynamodb-the-basics-360g,relational model,http://www.wikidata.org/entity/Q755662
+https://dev.to/nipeshkc7/dynamodb-the-basics-360g,serverless computing,http://www.wikidata.org/entity/Q3958022
+https://dev.to/nipeshkc7/dynamodb-the-basics-360g,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/nipeshkc7/dynamodb-the-basics-360g,Amazon DynamoDB,http://www.wikidata.org/entity/Q15731832
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,HyperLogLog,http://www.wikidata.org/entity/Q17092118
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,Apache Kafka,http://www.wikidata.org/entity/Q16235208
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,Python,http://www.wikidata.org/entity/Q28865
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,Ubuntu,http://www.wikidata.org/entity/Q381
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,LinkedIn,http://www.wikidata.org/entity/Q213660
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,PL/Perl,http://www.wikidata.org/entity/Q4046208
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,Heroku,http://www.wikidata.org/entity/Q2350702
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,PostGIS,http://www.wikidata.org/entity/Q1569955
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,The Mythical Man-Month,http://www.wikidata.org/entity/Q1192316
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,PostgreSQL,http://www.wikidata.org/entity/Q192490
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,BOB,http://www.wikidata.org/entity/Q92609
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,geographic information system,http://www.wikidata.org/entity/Q483130
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,programming language,http://www.wikidata.org/entity/Q9143
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,operating system,http://www.wikidata.org/entity/Q9135
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,Elasticsearch,http://www.wikidata.org/entity/Q3050461
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,Extensible Markup Language,http://www.wikidata.org/entity/Q2115
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,random-access memory,http://www.wikidata.org/entity/Q5295
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,Redis,http://www.wikidata.org/entity/Q2136322
+https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3,PL/pgSQL,http://www.wikidata.org/entity/Q2044345
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,WHERE,http://www.wikidata.org/entity/Q2668363
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,Oracle,http://www.wikidata.org/entity/Q19900
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,MySQL,http://www.wikidata.org/entity/Q850
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,INSERT,http://www.wikidata.org/entity/Q1076017
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,application programming interface,http://www.wikidata.org/entity/Q165194
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,UPDATE,http://www.wikidata.org/entity/Q1076005
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,varchar,http://www.wikidata.org/entity/Q2715350
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,null,null
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,Universally Unique Identifier,http://www.wikidata.org/entity/Q195284
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,information technology,http://www.wikidata.org/entity/Q11661
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,comma-separated values,http://www.wikidata.org/entity/Q935809
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,inheritance,http://www.wikidata.org/entity/Q212542
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,Extensible Markup Language,http://www.wikidata.org/entity/Q2115
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,character,http://www.wikidata.org/entity/Q32483
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,NoSQL database management system,http://www.wikidata.org/entity/Q82231
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,PostgreSQL,http://www.wikidata.org/entity/Q192490
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,YAML,http://www.wikidata.org/entity/Q281876
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,HyperText Markup Language,http://www.wikidata.org/entity/Q8811
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,Python,http://www.wikidata.org/entity/Q28865
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,DELETE,http://www.wikidata.org/entity/Q1153781
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,MongoDB,http://www.wikidata.org/entity/Q1165204
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,MariaDB,http://www.wikidata.org/entity/Q787177
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,SELECT,http://www.wikidata.org/entity/Q1164001
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,data definition language,http://www.wikidata.org/entity/Q1431648
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f,Microsoft SQL Server,http://www.wikidata.org/entity/Q215819
+https://dev.to/kiwicopple/loading-json-into-postgres-2l28,PostgreSQL,http://www.wikidata.org/entity/Q192490
+https://dev.to/kiwicopple/loading-json-into-postgres-2l28,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,Resource Description Framework,http://www.wikidata.org/entity/Q54872
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,Amazon S3,http://www.wikidata.org/entity/Q2593067
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,null,null
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,SPARQL,http://www.wikidata.org/entity/Q54871
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,maritozzo,http://www.wikidata.org/entity/Q3849360
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,Nest.js,http://www.wikidata.org/entity/Q107015664
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,result,http://www.wikidata.org/entity/Q2995644
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,Uniform Resource Identifier,http://www.wikidata.org/entity/Q61694
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,TypeScript,http://www.wikidata.org/entity/Q978185
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,run time,http://www.wikidata.org/entity/Q288510
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,code,http://www.wikidata.org/entity/Q188889
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,constructor,http://www.wikidata.org/entity/Q1049476
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,house cat,http://www.wikidata.org/entity/Q146
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,command-line interface,http://www.wikidata.org/entity/Q189053
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,Neo4j,http://www.wikidata.org/entity/Q1628290
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,Laravel,http://www.wikidata.org/entity/Q13634357
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,database,http://www.wikidata.org/entity/Q8513
+https://dev.to/adamcowley/building-a-modern-web-application-with-neo4j-and-nestjs-38ih,server,http://www.wikidata.org/entity/Q44127
+https://dev.to/codaelux/running-dynamodb-offline-4k1b,NoSQL database management system,http://www.wikidata.org/entity/Q82231
+https://dev.to/codaelux/running-dynamodb-offline-4k1b,Serverless Framework,http://www.wikidata.org/entity/Q22952981
+https://dev.to/codaelux/running-dynamodb-offline-4k1b,Microsoft Windows,http://www.wikidata.org/entity/Q1406
+https://dev.to/codaelux/running-dynamodb-offline-4k1b,AWS Lambda,http://www.wikidata.org/entity/Q21462856
+https://dev.to/codaelux/running-dynamodb-offline-4k1b,Amazon DynamoDB,http://www.wikidata.org/entity/Q15731832
+https://dev.to/codaelux/running-dynamodb-offline-4k1b,macOS,http://www.wikidata.org/entity/Q14116
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,Cloud Spanner,http://www.wikidata.org/entity/Q4049850
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,NoSQL database management system,http://www.wikidata.org/entity/Q82231
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,cloud computing,http://www.wikidata.org/entity/Q483639
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,NewSQL,http://www.wikidata.org/entity/Q7005136
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,C#,http://www.wikidata.org/entity/Q2370
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,"atomicity, consistency, isolation, durability",http://www.wikidata.org/entity/Q288435
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,command-line interface,http://www.wikidata.org/entity/Q189053
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,Google Chrome,http://www.wikidata.org/entity/Q777
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,Google Cloud Platform,http://www.wikidata.org/entity/Q17054505
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,Google,http://www.wikidata.org/entity/Q95
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,timestamp,http://www.wikidata.org/entity/Q186885
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,concurrency control,http://www.wikidata.org/entity/Q2914952
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,cloud database,http://www.wikidata.org/entity/Q2499178
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,Node.js,http://www.wikidata.org/entity/Q756100
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,instance,http://www.wikidata.org/entity/Q1664689
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,online transaction processing,http://www.wikidata.org/entity/Q1501395
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,data definition language,http://www.wikidata.org/entity/Q1431648
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,project,http://www.wikidata.org/entity/Q170584
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,Ruby,http://www.wikidata.org/entity/Q161053
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,Paxos,http://www.wikidata.org/entity/Q987969
+https://dev.to/arthurolga/newsql-an-implementation-with-google-spanner-2a86,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Apache ZooKeeper,http://www.wikidata.org/entity/Q4778968
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Apache Kafka,http://www.wikidata.org/entity/Q16235208
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Akka,http://www.wikidata.org/entity/Q16002307
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Scala,http://www.wikidata.org/entity/Q460584
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Apache Spark,http://www.wikidata.org/entity/Q7573619
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Udemy,http://www.wikidata.org/entity/Q7877165
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,big data,http://www.wikidata.org/entity/Q858810
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Apache NiFi,http://www.wikidata.org/entity/Q23691642
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Apache Hadoop,http://www.wikidata.org/entity/Q29120
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Airbnb,http://www.wikidata.org/entity/Q63327
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,LinkedIn,http://www.wikidata.org/entity/Q213660
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Pluralsight,http://www.wikidata.org/entity/Q19757566
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Scratch,http://www.wikidata.org/entity/Q275131
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Uber Technology,http://www.wikidata.org/entity/Q780442
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/javinpaul/5-best-courses-to-learn-apache-kafka-in-2020-584h,Apache Software Foundation,http://www.wikidata.org/entity/Q489709
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,Microsoft,http://www.wikidata.org/entity/Q2283
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,Linux,http://www.wikidata.org/entity/Q388
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,consumer,http://www.wikidata.org/entity/Q22855
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,Apache Kafka,http://www.wikidata.org/entity/Q16235208
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,system,http://www.wikidata.org/entity/Q58778
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,WebSocket,http://www.wikidata.org/entity/Q859938
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,Microsoft Windows,http://www.wikidata.org/entity/Q1406
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,Apache ZooKeeper,http://www.wikidata.org/entity/Q4778968
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,online chat,http://www.wikidata.org/entity/Q287198
+https://dev.to/offlineprogrammer/collect-analytics-data-for-your-app-using-aws-amplify-4ifp,Twitter,http://www.wikidata.org/entity/Q918
+https://dev.to/offlineprogrammer/collect-analytics-data-for-your-app-using-aws-amplify-4ifp,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/offlineprogrammer/collect-analytics-data-for-your-app-using-aws-amplify-4ifp,Android,http://www.wikidata.org/entity/Q94
+https://dev.to/offlineprogrammer/collect-analytics-data-for-your-app-using-aws-amplify-4ifp,Google Play,http://www.wikidata.org/entity/Q79576
+https://dev.to/offlineprogrammer/collect-analytics-data-for-your-app-using-aws-amplify-4ifp,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,mkdir,http://www.wikidata.org/entity/Q709350
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,path,http://www.wikidata.org/entity/Q817765
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,house cat,http://www.wikidata.org/entity/Q146
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,heap,http://www.wikidata.org/entity/Q274089
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,big data,http://www.wikidata.org/entity/Q858810
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,ZMODEM,http://www.wikidata.org/entity/Q136294
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Apache ZooKeeper,http://www.wikidata.org/entity/Q4778968
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Elasticsearch,http://www.wikidata.org/entity/Q3050461
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Java Virtual Machine,http://www.wikidata.org/entity/Q193321
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,example.com,http://www.wikidata.org/entity/Q306656
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,iterator,http://www.wikidata.org/entity/Q1326388
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Kibana,http://www.wikidata.org/entity/Q21156460
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Apache Kafka,http://www.wikidata.org/entity/Q16235208
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Oracle,http://www.wikidata.org/entity/Q19900
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Logstash,http://www.wikidata.org/entity/Q17620247
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,network socket,http://www.wikidata.org/entity/Q632343
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Yellowdog Updater,http://www.wikidata.org/entity/Q625662
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,linked list,http://www.wikidata.org/entity/Q7003418
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Linux,http://www.wikidata.org/entity/Q388
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,message,http://www.wikidata.org/entity/Q628523
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,name,http://www.wikidata.org/entity/Q82799
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,thread,http://www.wikidata.org/entity/Q213092
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Java Development Kit,http://www.wikidata.org/entity/Q741303
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,computer network,http://www.wikidata.org/entity/Q1301371
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Transmission Control Protocol,http://www.wikidata.org/entity/Q8803
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,digital marketing,http://www.wikidata.org/entity/Q1323528
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Python,http://www.wikidata.org/entity/Q28865
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,0.0.0.0,http://www.wikidata.org/entity/Q4545523
+https://dev.to/guthakiran/building-a-cluster-using-elasticsearch-kibana-zookeeper-kafka-and-rsyslog-17ja,Rsyslog,http://www.wikidata.org/entity/Q995115
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,example.com,http://www.wikidata.org/entity/Q306656
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,Kubernetes,http://www.wikidata.org/entity/Q22661306
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,YAML,http://www.wikidata.org/entity/Q281876
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,Apache ZooKeeper,http://www.wikidata.org/entity/Q4778968
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,IBM,http://www.wikidata.org/entity/Q37156
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,textile,http://www.wikidata.org/entity/Q28823
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,Apache Kafka,http://www.wikidata.org/entity/Q16235208
+https://dev.to/presto412/hyperledger-fabric-transitioning-from-development-to-production-4dch,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/goaty92/designing-tinyurl-it-s-more-complicated-than-you-think-2a48,Uniform Resource Locator,http://www.wikidata.org/entity/Q42253
+https://dev.to/goaty92/designing-tinyurl-it-s-more-complicated-than-you-think-2a48,Paxos,http://www.wikidata.org/entity/Q987969
+https://dev.to/goaty92/designing-tinyurl-it-s-more-complicated-than-you-think-2a48,TinyURL,http://www.wikidata.org/entity/Q1196499
+https://dev.to/goaty92/designing-tinyurl-it-s-more-complicated-than-you-think-2a48,YouTube,http://www.wikidata.org/entity/Q866
+https://dev.to/goaty92/designing-tinyurl-it-s-more-complicated-than-you-think-2a48,systems design,http://www.wikidata.org/entity/Q3750474
+https://dev.to/goaty92/designing-tinyurl-it-s-more-complicated-than-you-think-2a48,Apache ZooKeeper,http://www.wikidata.org/entity/Q4778968
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,cross-site request forgery,http://www.wikidata.org/entity/Q15401472
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,masonite,http://www.wikidata.org/entity/Q1808397
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,PyPy,http://www.wikidata.org/entity/Q1143023
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,inversion of control,http://www.wikidata.org/entity/Q666438
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Grok,http://www.wikidata.org/entity/Q5610141
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Zope,http://www.wikidata.org/entity/Q836650
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,cross-site scripting,http://www.wikidata.org/entity/Q371199
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Jinja,http://www.wikidata.org/entity/Q4041851
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Python,http://www.wikidata.org/entity/Q28865
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,CPython,http://www.wikidata.org/entity/Q599384
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Web Server Gateway Interface,http://www.wikidata.org/entity/Q539164
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Ruby on Rails,http://www.wikidata.org/entity/Q190478
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Ruby,http://www.wikidata.org/entity/Q161053
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,web2py,http://www.wikidata.org/entity/Q286180
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,bottle,http://www.wikidata.org/entity/Q80228
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,cheetah,http://www.wikidata.org/entity/Q23907
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,course,http://www.wikidata.org/entity/Q600134
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Flask,http://www.wikidata.org/entity/Q289281
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,input/output,http://www.wikidata.org/entity/Q219320
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,null,null
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,SQLAlchemy,http://www.wikidata.org/entity/Q1092514
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Laravel,http://www.wikidata.org/entity/Q13634357
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,database,http://www.wikidata.org/entity/Q8513
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Android Studio,http://www.wikidata.org/entity/Q13233410
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,TurboGears,http://www.wikidata.org/entity/Q937689
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Zope Object Database,http://www.wikidata.org/entity/Q220399
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,CherryPy,http://www.wikidata.org/entity/Q2635182
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,representational state transfer,http://www.wikidata.org/entity/Q749568
+https://dev.to/dihfahsih1/9-best-python-frameworks-for-building-small-to-enterprise-applications-2jla,Django,http://www.wikidata.org/entity/Q842014
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Drupal,http://www.wikidata.org/entity/Q170855
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,MySQL,http://www.wikidata.org/entity/Q850
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Joomla,http://www.wikidata.org/entity/Q13167
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,nginx,http://www.wikidata.org/entity/Q306144
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,input/output,http://www.wikidata.org/entity/Q219320
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Apache HTTP Server,http://www.wikidata.org/entity/Q11354
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Django,http://www.wikidata.org/entity/Q842014
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,PostgreSQL,http://www.wikidata.org/entity/Q192490
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,NoSQL database management system,http://www.wikidata.org/entity/Q82231
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,HyperText Markup Language,http://www.wikidata.org/entity/Q8811
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Hypertext Transfer Protocol,http://www.wikidata.org/entity/Q8777
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Express.js,http://www.wikidata.org/entity/Q16878131
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Node.js,http://www.wikidata.org/entity/Q756100
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Google,http://www.wikidata.org/entity/Q95
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,AngularJS,http://www.wikidata.org/entity/Q2849803
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,PHP,http://www.wikidata.org/entity/Q59
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,MongoDB,http://www.wikidata.org/entity/Q1165204
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Ruby on Rails,http://www.wikidata.org/entity/Q190478
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Angular,http://www.wikidata.org/entity/Q28925578
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Linux,http://www.wikidata.org/entity/Q388
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,WordPress,http://www.wikidata.org/entity/Q13166
+https://dev.to/sandipmavani/nodejs-vs-php-52g4,Oracle,http://www.wikidata.org/entity/Q19900
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,comma-separated values,http://www.wikidata.org/entity/Q935809
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,electronic health records,http://www.wikidata.org/entity/Q10871684
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,Amazon,http://www.wikidata.org/entity/Q3884
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,Snowflake Inc.,http://www.wikidata.org/entity/Q22078063
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,Amazon Redshift,http://www.wikidata.org/entity/Q17012109
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,BigQuery,http://www.wikidata.org/entity/Q4904867
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,Amazon S3,http://www.wikidata.org/entity/Q2593067
+https://dev.to/josiehall/import-data-from-s3-to-redshift-in-minutes-using-dataform-55g2,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,Postman,http://www.wikidata.org/entity/Q105538901
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,radius,http://www.wikidata.org/entity/Q173817
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,bucket,http://www.wikidata.org/entity/Q47107
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,ASP.NET Core,http://www.wikidata.org/entity/Q17513350
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,Meetup,http://www.wikidata.org/entity/Q1625371
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,Hypertext Transfer Protocol,http://www.wikidata.org/entity/Q8777
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,user interface,http://www.wikidata.org/entity/Q47146
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,Couchbase Server,http://www.wikidata.org/entity/Q10858568
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,HyperText Markup Language,http://www.wikidata.org/entity/Q8811
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,data definition language,http://www.wikidata.org/entity/Q1431648
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,World Wide Web,http://www.wikidata.org/entity/Q466
+https://dev.to/ahmetkucukoglu/couchbase-geosearch-with-asp-net-core-i04,name,http://www.wikidata.org/entity/Q82799
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,HyperText Markup Language,http://www.wikidata.org/entity/Q8811
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,JSON-LD,http://www.wikidata.org/entity/Q6108942
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,Document Object Model,http://www.wikidata.org/entity/Q2093
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,Angular,http://www.wikidata.org/entity/Q28925578
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,Hypertext Transfer Protocol,http://www.wikidata.org/entity/Q8777
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,JSON,http://www.wikidata.org/entity/Q2063
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,web browser,http://www.wikidata.org/entity/Q6368
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,web page,http://www.wikidata.org/entity/Q36774
+https://dev.to/angular/outputting-json-ld-with-angular-universal-4ia1,serialization,http://www.wikidata.org/entity/Q1127410
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,floating point,http://www.wikidata.org/entity/Q117879
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,representational state transfer,http://www.wikidata.org/entity/Q749568
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,Simple DirectMedia Layer,http://www.wikidata.org/entity/Q727439
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,Facebook,http://www.wikidata.org/entity/Q355
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,GraphQL,http://www.wikidata.org/entity/Q25104949
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,boolean data type,http://www.wikidata.org/entity/Q520777
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,application programming interface,http://www.wikidata.org/entity/Q165194
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,query language,http://www.wikidata.org/entity/Q845739
+https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj,client,http://www.wikidata.org/entity/Q528166
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,Node.js,http://www.wikidata.org/entity/Q756100
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,cloud computing,http://www.wikidata.org/entity/Q483639
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,Microsoft Azure,http://www.wikidata.org/entity/Q725967
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,Twitter,http://www.wikidata.org/entity/Q918
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,localhost.,http://www.wikidata.org/entity/Q153799
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,Uniform Resource Locator,http://www.wikidata.org/entity/Q42253
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,microservices,http://www.wikidata.org/entity/Q18344624
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,representational state transfer,http://www.wikidata.org/entity/Q749568
+https://dev.to/azure/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-233g,GraphQL,http://www.wikidata.org/entity/Q25104949
+https://dev.to/qainsights/performance-testing-neo4j-database-using-bolt-protocol-in-apache-jmeter-1oa9,Neo4j,http://www.wikidata.org/entity/Q1628290
+https://dev.to/qainsights/performance-testing-neo4j-database-using-bolt-protocol-in-apache-jmeter-1oa9,Apache JMeter,http://www.wikidata.org/entity/Q616885
+https://dev.to/qainsights/performance-testing-neo4j-database-using-bolt-protocol-in-apache-jmeter-1oa9,localhost.,http://www.wikidata.org/entity/Q153799
+https://dev.to/lirantal/taking-a-look-at-cfps-for-nodetlv-i-ll-see-you-there-right-5hd8,Node.js,http://www.wikidata.org/entity/Q756100
+https://dev.to/lirantal/taking-a-look-at-cfps-for-nodetlv-i-ll-see-you-there-right-5hd8,Israel,http://www.wikidata.org/entity/Q801
+https://dev.to/lirantal/taking-a-look-at-cfps-for-nodetlv-i-ll-see-you-there-right-5hd8,Tel Aviv,http://www.wikidata.org/entity/Q33935
+https://dev.to/snyk/don-t-let-security-vulnerabilities-crawl-into-your-node-js-docker-images-4fnn,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/snyk/don-t-let-security-vulnerabilities-crawl-into-your-node-js-docker-images-4fnn,Snyk,http://www.wikidata.org/entity/Q108282404
+https://dev.to/lirantal/npm-security-tips-to-keep-you-safe-of-malicious-modules-25bp,npm,http://www.wikidata.org/entity/Q7067518
+https://dev.to/lirantal/npm-security-tips-to-keep-you-safe-of-malicious-modules-25bp,command-line interface,http://www.wikidata.org/entity/Q189053
+https://dev.to/setevoy/kubernetes-the-krew-plugins-manager-and-useful-kubectl-plugins-list-24df,Arch User Repository,http://www.wikidata.org/entity/Q17521339
+https://dev.to/setevoy/kubernetes-the-krew-plugins-manager-and-useful-kubectl-plugins-list-24df,Kubernetes,http://www.wikidata.org/entity/Q22661306
+https://dev.to/setevoy/kubernetes-the-krew-plugins-manager-and-useful-kubectl-plugins-list-24df,DevOps,http://www.wikidata.org/entity/Q3025536
+https://dev.to/setevoy/kubernetes-the-krew-plugins-manager-and-useful-kubectl-plugins-list-24df,role-based access control,http://www.wikidata.org/entity/Q1702839
+https://dev.to/setevoy/kubernetes-the-krew-plugins-manager-and-useful-kubectl-plugins-list-24df,kubectl,http://www.wikidata.org/entity/Q84081166
+https://dev.to/setevoy/kubernetes-the-krew-plugins-manager-and-useful-kubectl-plugins-list-24df,Arch Linux,http://www.wikidata.org/entity/Q185576
+https://dev.to/setevoy/kubernetes-the-krew-plugins-manager-and-useful-kubectl-plugins-list-24df,RTFM,http://www.wikidata.org/entity/Q1060967
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,Docker,http://www.wikidata.org/entity/Q15206305
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,certificate authority,http://www.wikidata.org/entity/Q196776
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,DevOps,http://www.wikidata.org/entity/Q3025536
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,Kubernetes,http://www.wikidata.org/entity/Q22661306
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,RTFM,http://www.wikidata.org/entity/Q1060967
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,role-based access control,http://www.wikidata.org/entity/Q1702839
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,Linux,http://www.wikidata.org/entity/Q388
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/setevoy/kubernetes-helm-x509-certificate-signed-by-unknown-authority-and-serviceaccount-for-pod-3d01,software deployment,http://www.wikidata.org/entity/Q2297740
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Amazon CloudWatch,http://www.wikidata.org/entity/Q456090
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Linux,http://www.wikidata.org/entity/Q388
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,game controller,http://www.wikidata.org/entity/Q865422
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,access-control list,http://www.wikidata.org/entity/Q338966
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,world,http://www.wikidata.org/entity/Q16502
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,default value,http://www.wikidata.org/entity/Q281782
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Uniform Resource Identifier,http://www.wikidata.org/entity/Q61694
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Kubernetes,http://www.wikidata.org/entity/Q22661306
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,nginx,http://www.wikidata.org/entity/Q306144
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Prometheus,http://www.wikidata.org/entity/Q52534999
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Amazon S3,http://www.wikidata.org/entity/Q2593067
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Logz.io,http://www.wikidata.org/entity/Q24909927
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Classless Inter-Domain Routing,http://www.wikidata.org/entity/Q646589
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Amazon CloudFront,http://www.wikidata.org/entity/Q1628791
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,web application firewall,http://www.wikidata.org/entity/Q25348457
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,DevOps,http://www.wikidata.org/entity/Q3025536
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,RTFM,http://www.wikidata.org/entity/Q1060967
+https://dev.to/setevoy/aws-web-application-firewall-overview-configuration-and-its-monitoring-3hl0,Amazon Kinesis,http://www.wikidata.org/entity/Q56358285
+https://dev.to/zaiste/livestream-building-e-commerce-apps-with-flutter-graphql-1ao3,application programming interface,http://www.wikidata.org/entity/Q165194
+https://dev.to/zaiste/livestream-building-e-commerce-apps-with-flutter-graphql-1ao3,GraphQL,http://www.wikidata.org/entity/Q25104949
+https://dev.to/zaiste/livestream-building-e-commerce-apps-with-flutter-graphql-1ao3,Flutter,http://www.wikidata.org/entity/Q39072787
+https://dev.to/zaiste/livestream-building-e-commerce-apps-with-flutter-graphql-1ao3,live streaming,http://www.wikidata.org/entity/Q3027665
+https://dev.to/zaiste/livestream-building-e-commerce-apps-with-flutter-graphql-1ao3,YouTube,http://www.wikidata.org/entity/Q866
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,mobile app,http://www.wikidata.org/entity/Q620615
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,Svelte,http://www.wikidata.org/entity/Q16863097
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,GraphQL,http://www.wikidata.org/entity/Q25104949
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,Zendesk,http://www.wikidata.org/entity/Q15401349
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,hooking,http://www.wikidata.org/entity/Q1203383
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,TypeScript,http://www.wikidata.org/entity/Q978185
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,Twitter,http://www.wikidata.org/entity/Q918
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,YouTube,http://www.wikidata.org/entity/Q866
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,null,null
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,webpack,http://www.wikidata.org/entity/Q22909730
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,Stripe,http://www.wikidata.org/entity/Q7624104
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,Shopify,http://www.wikidata.org/entity/Q7501150
+https://dev.to/zaiste/modern-react-js-setup-for-graphql-using-vite-urql-abg,Airtable,http://www.wikidata.org/entity/Q23016614
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Fastmail,http://www.wikidata.org/entity/Q1006504
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,macOS,http://www.wikidata.org/entity/Q14116
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Mozilla Corporation,http://www.wikidata.org/entity/Q169925
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Google,http://www.wikidata.org/entity/Q95
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,1Password,http://www.wikidata.org/entity/Q2150861
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,AdGuard,http://www.wikidata.org/entity/Q4033398
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Safari,http://www.wikidata.org/entity/Q35773
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,null,http://www.wikidata.org/entity/Q98098696
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,JSON Meta Application Protocol,http://www.wikidata.org/entity/Q61745167
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Google Analytics,http://www.wikidata.org/entity/Q220577
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Google Chrome,http://www.wikidata.org/entity/Q777
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Pi-hole,http://www.wikidata.org/entity/Q55629937
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,Firefox,http://www.wikidata.org/entity/Q698
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,NordVPN,http://www.wikidata.org/entity/Q48816099
+https://dev.to/zaiste/my-favorite-privacy-tools-in-2020-be-safer-on-the-internet-4dik,WireGuard,http://www.wikidata.org/entity/Q28975568
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,business,http://www.wikidata.org/entity/Q4830453
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,Android,http://www.wikidata.org/entity/Q94
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,single sign-on,http://www.wikidata.org/entity/Q568494
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,mobile application development,http://www.wikidata.org/entity/Q2988038
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,Vue.js,http://www.wikidata.org/entity/Q24589705
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,Angular,http://www.wikidata.org/entity/Q28925578
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,biometrics,http://www.wikidata.org/entity/Q177765
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,Ionic,http://www.wikidata.org/entity/Q17576071
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,Google,http://www.wikidata.org/entity/Q95
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,Fortune 1000,http://www.wikidata.org/entity/Q285800
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,iOS,http://www.wikidata.org/entity/Q48493
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,progressive web app,http://www.wikidata.org/entity/Q23679990
+https://dev.to/ionic/10-reasons-to-choose-ionic-for-mobile-development-213a,desktop computer,http://www.wikidata.org/entity/Q56155
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,World Wide Web,http://www.wikidata.org/entity/Q466
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Android,http://www.wikidata.org/entity/Q94
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Kotlin,http://www.wikidata.org/entity/Q3816639
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Tim Hortons,http://www.wikidata.org/entity/Q175106
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,capacitor,http://www.wikidata.org/entity/Q5322
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,application programming interface,http://www.wikidata.org/entity/Q165194
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,iPhone,http://www.wikidata.org/entity/Q2766
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,code,http://www.wikidata.org/entity/Q188889
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,desktop computer,http://www.wikidata.org/entity/Q56155
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Ionic,http://www.wikidata.org/entity/Q17576071
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Netlify,http://www.wikidata.org/entity/Q56102498
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Fidelity Investments,http://www.wikidata.org/entity/Q1411292
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Apache Cordova,http://www.wikidata.org/entity/Q16626338
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,iOS,http://www.wikidata.org/entity/Q48493
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Burger King,http://www.wikidata.org/entity/Q177054
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Liberty Mutual,http://www.wikidata.org/entity/Q1516450
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,progressive web app,http://www.wikidata.org/entity/Q23679990
+https://dev.to/ionic/app-store-or-web-why-not-both-3fa2,Xamarin,http://www.wikidata.org/entity/Q3073996
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,iOS,http://www.wikidata.org/entity/Q48493
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Android Studio,http://www.wikidata.org/entity/Q13233410
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Angular,http://www.wikidata.org/entity/Q28925578
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,capacitor,http://www.wikidata.org/entity/Q5322
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Apache Cordova,http://www.wikidata.org/entity/Q16626338
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Cascading Style Sheets,http://www.wikidata.org/entity/Q46441
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,HyperText Markup Language,http://www.wikidata.org/entity/Q8811
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,user interface,http://www.wikidata.org/entity/Q47146
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Xcode,http://www.wikidata.org/entity/Q250328
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,README,http://www.wikidata.org/entity/Q539662
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,web page,http://www.wikidata.org/entity/Q36774
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Ionic,http://www.wikidata.org/entity/Q17576071
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Tailwind CSS,http://www.wikidata.org/entity/Q102173844
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Next.js,http://www.wikidata.org/entity/Q56062435
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Android,http://www.wikidata.org/entity/Q94
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,desktop computer,http://www.wikidata.org/entity/Q56155
+https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij,Vue.js,http://www.wikidata.org/entity/Q24589705
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,scalability,http://www.wikidata.org/entity/Q727490
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,Mike Krieger,http://www.wikidata.org/entity/Q10329947
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,Android,http://www.wikidata.org/entity/Q94
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,MySQL,http://www.wikidata.org/entity/Q850
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,Firebase,http://www.wikidata.org/entity/Q18150728
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,PostgreSQL,http://www.wikidata.org/entity/Q192490
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,synchronization,http://www.wikidata.org/entity/Q650462
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,application programming interface,http://www.wikidata.org/entity/Q165194
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,Uber Technology,http://www.wikidata.org/entity/Q780442
+https://dev.to/jignesh_simform/how-to-select-the-right-database-for-your-androidios-application-2aca,multiversion concurrency control,http://www.wikidata.org/entity/Q93695
+https://dev.to/nipeshkc7/how-i-ve-been-misusing-async-await-1f5j,Await,http://www.wikidata.org/entity/Q16245951
+https://dev.to/nipeshkc7/deploying-vuejs-front-end-to-netlify-322c,Vue.js,http://www.wikidata.org/entity/Q24589705
+https://dev.to/nipeshkc7/deploying-vuejs-front-end-to-netlify-322c,Netlify,http://www.wikidata.org/entity/Q56102498
+https://dev.to/nipeshkc7/deploying-vuejs-front-end-to-netlify-322c,Heroku,http://www.wikidata.org/entity/Q2350702
+https://dev.to/nipeshkc7/deploying-vuejs-front-end-to-netlify-322c,TOML,http://www.wikidata.org/entity/Q28449455
+https://dev.to/nipeshkc7/organizing-my-nodejs-code-and-folder-structure-1060,structure,http://www.wikidata.org/entity/Q6671777
+https://dev.to/nipeshkc7/organizing-my-nodejs-code-and-folder-structure-1060,Node.js,http://www.wikidata.org/entity/Q756100
+https://dev.to/nipeshkc7/organizing-my-nodejs-code-and-folder-structure-1060,blog,http://www.wikidata.org/entity/Q30849
+https://dev.to/nipeshkc7/organizing-my-nodejs-code-and-folder-structure-1060,Twitter,http://www.wikidata.org/entity/Q918
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,media,http://www.wikidata.org/entity/Q340169
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,Stack Overflow,http://www.wikidata.org/entity/Q549037
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,Django,http://www.wikidata.org/entity/Q842014
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,Python,http://www.wikidata.org/entity/Q28865
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,Amazon S3,http://www.wikidata.org/entity/Q2593067
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,Mozilla add-on,http://www.wikidata.org/entity/Q7593080
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,installation,http://www.wikidata.org/entity/Q836862
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,computer data storage,http://www.wikidata.org/entity/Q66221
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,Heroku,http://www.wikidata.org/entity/Q2350702
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,computer file,http://www.wikidata.org/entity/Q82753
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,documentation,http://www.wikidata.org/entity/Q788790
+https://dev.to/heroku/properly-managing-django-media-static-files-on-heroku-o2l,access control,http://www.wikidata.org/entity/Q228502
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,plug-in,http://www.wikidata.org/entity/Q184148
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Git,http://www.wikidata.org/entity/Q186055
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,plain text,http://www.wikidata.org/entity/Q1145976
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Heroku,http://www.wikidata.org/entity/Q2350702
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,integrated development environment,http://www.wikidata.org/entity/Q13741
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,system,http://www.wikidata.org/entity/Q58778
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,PostgreSQL,http://www.wikidata.org/entity/Q192490
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Java Virtual Machine,http://www.wikidata.org/entity/Q193321
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Google,http://www.wikidata.org/entity/Q95
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Uniform Resource Locator,http://www.wikidata.org/entity/Q42253
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,datasource,http://www.wikidata.org/entity/Q201314
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Kotlin,http://www.wikidata.org/entity/Q3816639
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,HTTPS,http://www.wikidata.org/entity/Q44484
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Gradle,http://www.wikidata.org/entity/Q965596
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,IntelliJ IDEA,http://www.wikidata.org/entity/Q1206660
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,database,http://www.wikidata.org/entity/Q8513
+https://dev.to/heroku/deploying-a-kotlin-app-to-heroku-5d0g,Apache Maven,http://www.wikidata.org/entity/Q139941
+https://dev.to/heroku/azure-heroku-service-bus-e3p,command-line interface,http://www.wikidata.org/entity/Q189053
+https://dev.to/heroku/azure-heroku-service-bus-e3p,RabbitMQ,http://www.wikidata.org/entity/Q2081413
+https://dev.to/heroku/azure-heroku-service-bus-e3p,DevOps,http://www.wikidata.org/entity/Q3025536
+https://dev.to/heroku/azure-heroku-service-bus-e3p,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Heroku,http://www.wikidata.org/entity/Q2350702
+https://dev.to/heroku/azure-heroku-service-bus-e3p,application,http://www.wikidata.org/entity/Q166142
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Git,http://www.wikidata.org/entity/Q186055
+https://dev.to/heroku/azure-heroku-service-bus-e3p,input/output,http://www.wikidata.org/entity/Q219320
+https://dev.to/heroku/azure-heroku-service-bus-e3p,README,http://www.wikidata.org/entity/Q539662
+https://dev.to/heroku/azure-heroku-service-bus-e3p,queue,http://www.wikidata.org/entity/Q220543
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Apache Kafka,http://www.wikidata.org/entity/Q16235208
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Amazon Web Services,http://www.wikidata.org/entity/Q456157
+https://dev.to/heroku/azure-heroku-service-bus-e3p,enterprise service bus,http://www.wikidata.org/entity/Q1061460
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Visual Studio Code,http://www.wikidata.org/entity/Q19841877
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Microsoft Azure,http://www.wikidata.org/entity/Q725967
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/heroku/azure-heroku-service-bus-e3p,string,http://www.wikidata.org/entity/Q184754
+https://dev.to/heroku/azure-heroku-service-bus-e3p,FIFO,http://www.wikidata.org/entity/Q515636
+https://dev.to/heroku/azure-heroku-service-bus-e3p,Google Cloud Platform,http://www.wikidata.org/entity/Q17054505
+https://dev.to/heroku/azure-heroku-service-bus-e3p,e-commerce,http://www.wikidata.org/entity/Q484847
+https://dev.to/heroku/azure-heroku-service-bus-e3p,C#,http://www.wikidata.org/entity/Q2370
+https://dev.to/dmfay/ectomigo-safer-schema-migrations-5g6b,SQLAlchemy,http://www.wikidata.org/entity/Q1092514
+https://dev.to/dmfay/ectomigo-safer-schema-migrations-5g6b,startup company,http://www.wikidata.org/entity/Q129238
+https://dev.to/dmfay/ectomigo-safer-schema-migrations-5g6b,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/dmfay/ectomigo-safer-schema-migrations-5g6b,Python,http://www.wikidata.org/entity/Q28865
+https://dev.to/dmfay/ectomigo-safer-schema-migrations-5g6b,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/dmfay/ectomigo-safer-schema-migrations-5g6b,GNU Affero General Public License,http://www.wikidata.org/entity/Q1131681
+https://dev.to/dmfay/ectomigo-safer-schema-migrations-5g6b,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/dmfay/exploring-databases-visually-41j5,Stuart Kauffman,http://www.wikidata.org/entity/Q516009
+https://dev.to/dmfay/exploring-databases-visually-41j5,null,null
+https://dev.to/dmfay/exploring-databases-visually-41j5,Graphviz,http://www.wikidata.org/entity/Q260889
+https://dev.to/dmfay/exploring-databases-visually-41j5,PostgreSQL,http://www.wikidata.org/entity/Q192490
+https://dev.to/dmfay/exploring-databases-visually-41j5,actor,http://www.wikidata.org/entity/Q33999
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,null,null
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,decomposition,http://www.wikidata.org/entity/Q339062
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,meaning,http://www.wikidata.org/entity/Q16877777
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,Louis Hjelmslev,http://www.wikidata.org/entity/Q313769
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,JOIN,http://www.wikidata.org/entity/Q2003535
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,null,null
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,Ferdinand de Saussure,http://www.wikidata.org/entity/Q13230
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,Gilles Deleuze,http://www.wikidata.org/entity/Q184226
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,SQL,http://www.wikidata.org/entity/Q47607
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,Edgar F. Codd,http://www.wikidata.org/entity/Q92596
+https://dev.to/dmfay/join-semiotics-and-massivejs-v6-44he,Charles Sanders Peirce,http://www.wikidata.org/entity/Q187520
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-21pg,Emmental,http://www.wikidata.org/entity/Q932214
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-21pg,Bidirectional Encoder Representations from Transformers,http://www.wikidata.org/entity/Q61726893
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-21pg,SPARQL,http://www.wikidata.org/entity/Q54871
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-21pg,natural language processing,http://www.wikidata.org/entity/Q30642
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-21pg,data,http://www.wikidata.org/entity/Q42848
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,named-entity recognition,http://www.wikidata.org/entity/Q403574
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,recurrent neural network,http://www.wikidata.org/entity/Q1457734
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,conditional random field,http://www.wikidata.org/entity/Q1124538
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,word embedding,http://www.wikidata.org/entity/Q18395344
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,natural language processing,http://www.wikidata.org/entity/Q30642
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,random field,http://www.wikidata.org/entity/Q5361768
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,long short-term memory,http://www.wikidata.org/entity/Q6673524
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,city,http://www.wikidata.org/entity/Q515
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,arXiv,http://www.wikidata.org/entity/Q118398
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,Ficus carica,http://www.wikidata.org/entity/Q36146
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,SPARQL,http://www.wikidata.org/entity/Q54871
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,data,http://www.wikidata.org/entity/Q42848
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,SPARQL,http://www.wikidata.org/entity/Q54871
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,Indian Overseas Bank,http://www.wikidata.org/entity/Q2003611
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,recipe,http://www.wikidata.org/entity/Q219239
+https://dev.to/condenastitaly/when-food-meets-ai-the-smart-recipe-project-29bf,natural language processing,http://www.wikidata.org/entity/Q30642
+https://dev.to/neo4j/how-to-build-a-neo4j-application-with-go-1e3o,Neo4j,http://www.wikidata.org/entity/Q1628290
+https://dev.to/adamcowley/how-to-build-a-neo4j-application-with-nodejs-56h4,npm,http://www.wikidata.org/entity/Q7067518
+https://dev.to/adamcowley/how-to-build-a-neo4j-application-with-nodejs-56h4,process,http://www.wikidata.org/entity/Q205663
+https://dev.to/adamcowley/how-to-build-a-neo4j-application-with-nodejs-56h4,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/adamcowley/how-to-build-a-neo4j-application-with-nodejs-56h4,Neo4j,http://www.wikidata.org/entity/Q1628290
+https://dev.to/adamcowley/how-to-build-a-neo4j-application-with-nodejs-56h4,result,http://www.wikidata.org/entity/Q2995644
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,Angular,http://www.wikidata.org/entity/Q28925578
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,Hypertext Transfer Protocol,http://www.wikidata.org/entity/Q8777
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,sense,http://www.wikidata.org/entity/Q173253
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,Neo4j,http://www.wikidata.org/entity/Q1628290
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,GitHub,http://www.wikidata.org/entity/Q364
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,array data structure,http://www.wikidata.org/entity/Q186152
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,Vue.js,http://www.wikidata.org/entity/Q24589705
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,subroutine,http://www.wikidata.org/entity/Q190686
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,Mixin,http://www.wikidata.org/entity/Q775794
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,TypeScript,http://www.wikidata.org/entity/Q978185
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,hooking,http://www.wikidata.org/entity/Q1203383
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,access token,http://www.wikidata.org/entity/Q2292980
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b,application programming interface,http://www.wikidata.org/entity/Q165194
+https://dev.to/javinpaul/how-to-use-redux-for-state-management-in-react-app-2gmg,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/javinpaul/how-to-use-redux-for-state-management-in-react-app-2gmg,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/javinpaul/how-to-use-redux-for-state-management-in-react-app-2gmg,Redux,http://www.wikidata.org/entity/Q28957057
+https://dev.to/javinpaul/how-to-use-redux-for-state-management-in-react-app-2gmg,user interface,http://www.wikidata.org/entity/Q47146
+https://dev.to/javinpaul/how-to-use-redux-for-state-management-in-react-app-2gmg,button,http://www.wikidata.org/entity/Q160464
+https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd,Hypertext Transfer Protocol,http://www.wikidata.org/entity/Q8777
+https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd,Redux,http://www.wikidata.org/entity/Q28957057
+https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd,npm,http://www.wikidata.org/entity/Q7067518
+https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd,action,http://www.wikidata.org/entity/Q4026292
+https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd,JavaScript,http://www.wikidata.org/entity/Q2005
+https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm,edX,http://www.wikidata.org/entity/Q2106448
+https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm,Coursera,http://www.wikidata.org/entity/Q499962
+https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm,React,http://www.wikidata.org/entity/Q19399674
+https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm,hooking,http://www.wikidata.org/entity/Q1203383
+https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm,Java,http://www.wikidata.org/entity/Q251
+https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm,Redux,http://www.wikidata.org/entity/Q28957057
+https://dev.to/subhransu/nevertheless-subhransu-maharana-coded-5eam,Node.js,http://www.wikidata.org/entity/Q756100
+https://dev.to/subhransu/nevertheless-subhransu-maharana-coded-5eam,server,http://www.wikidata.org/entity/Q44127
+https://dev.to/subhransu/nevertheless-subhransu-maharana-coded-5eam,nginx,http://www.wikidata.org/entity/Q306144
+https://dev.to/subhransu/nevertheless-subhransu-maharana-coded-5eam,Docker,http://www.wikidata.org/entity/Q15206305
