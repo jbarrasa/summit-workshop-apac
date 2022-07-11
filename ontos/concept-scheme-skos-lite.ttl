@@ -3,34 +3,28 @@
 <http://www.wikidata.org/entity/Q1628290> a skos:Concept;
   skos:prefLabel "Neo4j";
   skos:altLabel "https://en.wikipedia.org/wiki/Neo4j";
-  n4sch:name "Q1628290";
   skos:broader <http://www.wikidata.org/entity/Q595971> .
 
 <http://www.wikidata.org/entity/Q595971> a skos:Concept;
-  n4sch:name "Q595971";
   skos:prefLabel "graph database";
   skos:altLabel "https://en.wikipedia.org/wiki/Graph_database";
   skos:broader <http://www.wikidata.org/entity/Q176165> .
 
 <http://www.wikidata.org/entity/Q176165> a skos:Concept;
   skos:altLabel "https://en.wikipedia.org/wiki/Database_management_system";
-  n4sch:name "Q176165";
   skos:prefLabel "database management system" .
 
 <http://www.wikidata.org/entity/Q10858568> a skos:Concept;
   skos:altLabel "https://en.wikipedia.org/wiki/Couchbase_Server";
-  n4sch:name "Q10858568";
   skos:broader <http://www.wikidata.org/entity/Q176165>, <http://www.wikidata.org/entity/Q1235236>;
   skos:prefLabel "Couchbase Server" .
 
 <http://www.wikidata.org/entity/Q1235236> a skos:Concept;
-  n4sch:name "Q1235236";
   skos:altLabel "https://en.wikipedia.org/wiki/Document-oriented_database";
   skos:prefLabel "document-oriented database";
   skos:broader <http://www.wikidata.org/entity/Q176165> .
 
 <http://www.wikidata.org/entity/Q3932296> a skos:Concept;
-  n4sch:name "Q3932296";
   skos:prefLabel "relational database management system";
   skos:broader <http://www.wikidata.org/entity/Q176165>;
   skos:altLabel "https://en.wikipedia.org/wiki/Relational_database_management_system" .
@@ -38,5 +32,4 @@
 <http://www.wikidata.org/entity/Q1165204> a skos:Concept;
   skos:prefLabel "MongoDB";
   skos:broader <http://www.wikidata.org/entity/Q1235236>, <http://www.wikidata.org/entity/Q176165>;
-  skos:altLabel "https://en.wikipedia.org/wiki/MongoDB";
-  n4sch:name "Q1165204" .
+  skos:altLabel "https://en.wikipedia.org/wiki/MongoDB".
