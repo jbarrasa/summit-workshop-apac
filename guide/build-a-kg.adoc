@@ -1,0 +1,93 @@
+== Building a KG
+
+We will build the KG in two steps: first we load the data and then we overlay the organising principle (the concept scheme or ontology).
+
+Once the KG is built, we'll run a few semantic searches on it.
+
+== Loading the data: Articles with pre-extracted entities
+
+Use the https://data-importer.graphapp.io/[data importer] with https://github.com/jbarrasa/gc-2022/blob/main/search/other/imodel.json[this model]
+and https://github.com/jbarrasa/gc-2022/tree/main/search/data[this set of data files].
+
+
+== Ontology Import
+
+=== Configure the DB so that it's ready to import RDF data
+
+We first create the required constraint
+
+[source,cypher]
+----
+CREATE CONSTRAINT n10s_unique_uri ON (r:Resource) ASSERT r.uri IS UNIQUE;
+----
+
+And set the config for importing ontologies:
+
+[source,cypher]
+----
+call n10s.graphconfig.init({ handleVocabUris: "IGNORE", classLabel: "Topic", subClassOfRel: "broader"});
+----
+
+=== Preview a smaller version of the concept scheme
+
+[source,cypher]
+----
+call n10s.rdf.preview.fetch("https://raw.githubusercontent.com/jbarrasa/summit-workshop-apac/main/ontos/concept-scheme-skos-lite.ttl","Turtle")
+----
+
+=== Let's import the concept scheme
+
+[source,cypher]
+----
+call n10s.skos.import.fetch("https://raw.githubusercontent.com/jbarrasa/goingmeta/main/session2/resources/goingmeta-skos.ttl","Turtle");
+----
+
+Let's 'clean' the taxonomy: remove redundant `broader` relationships (from Wikidata extract).
+
+[source,cypher]
+----
+match (s:Concept)-[shortcut:broader]->(:Concept)<-[:broader*2..]-(s)
+delete shortcut;
+----
+
+== Some Semantic searches on the KG (1)
+
+__Articles on "NoSQL database management system"__
+
+This will require returning articles both directly or indirectly connected to that category.
+
+[source,cypher]
+----
+MATCH path = (:Concept {prefLabel: "NoSQL database management system"})<-[:broader*0..]-(sc)<-[:refers_to]-(art:Article)
+return art.title, [x in nodes(path) where x:Concept | coalesce(x.prefLabel,"") + coalesce(x.label,"") ]
+----
+
+or using the inferencing method in n10s
+
+[source,cypher]
+----
+match (c:Concept {prefLabel: "NoSQL database management system"})
+call n10s.inference.nodesInCategory(c, { inCatRel: "refers_to"}) yield node as article
+return article.title as result
+----
+
+== Some Semantic searches on the KG (2)
+
+__Read next__ type of queries for recommendation/personalisation.
+
+Use this query to create a search phrase in Bloom and visually explore recommendation paths.
+
+[source,cypher]
+----
+match simpath = (a:Article)-[:refers_to]->(cat)-[:broader*0..1]->()<-[:broader*0..1]-()<-[:refers_to]-(other)
+where a.uri = "https://dev.to/qainsights/performance-testing-neo4j-database-using-bolt-protocol-in-apache-jmeter-1oa9"
+return other.title, [x in nodes(simpath) where x:Concept | coalesce(x.prefLabel,x.label) ] as explain
+----
+
+The quality of the results can be improved by adding another ontology (software stack onto)
+
+[source,cypher]
+----
+CALL n10s.onto.import.fetch("http://www.nsmntx.org/2020/08/swStacks","Turtle");
+----
+
