@@ -16,7 +16,7 @@
 
 <http://www.wikidata.org/entity/Q10858568> a skos:Concept;
   skos:altLabel "https://en.wikipedia.org/wiki/Couchbase_Server";
-  skos:broader <http://www.wikidata.org/entity/Q176165>, <http://www.wikidata.org/entity/Q1235236>;
+  skos:broader <http://www.wikidata.org/entity/Q1235236>;
   skos:prefLabel "Couchbase Server" .
 
 <http://www.wikidata.org/entity/Q1235236> a skos:Concept;
@@ -31,5 +31,5 @@
 
 <http://www.wikidata.org/entity/Q1165204> a skos:Concept;
   skos:prefLabel "MongoDB";
-  skos:broader <http://www.wikidata.org/entity/Q1235236>, <http://www.wikidata.org/entity/Q176165>;
+  skos:broader <http://www.wikidata.org/entity/Q1235236>;
   skos:altLabel "https://en.wikipedia.org/wiki/MongoDB".
