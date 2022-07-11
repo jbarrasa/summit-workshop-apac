@@ -6,9 +6,32 @@ Once the KG is built, we'll run a few semantic searches on it.
 
 == Loading the data: Articles with pre-extracted entities
 
-Use the https://data-importer.graphapp.io/[data importer] with https://github.com/jbarrasa/gc-2022/blob/main/search/other/imodel.json[this model]
-and https://github.com/jbarrasa/gc-2022/tree/main/search/data[this set of data files].
+Use the https://data-importer.graphapp.io/[data importer] with https://github.com/jbarrasa/summit-workshop-apac/blob/main/other/imodel.json[this model]
+and https://github.com/jbarrasa/summit-workshop-apac/tree/main/data[this set of data files].
 
+
+== Some algos?
+
+[source,cypher]
+----
+CALL gds.graph.project(
+    'articleSimGraph',
+    ['Article', 'Topic'],
+    {
+        genre: {
+            type: 'about' 
+        }
+    }
+);
+----
+
+[source,cypher]
+----
+CALL gds.nodeSimilarity.stream('articleSimGraph')
+YIELD node1, node2, similarity
+RETURN gds.util.asNode(node1).title AS article1, gds.util.asNode(node2).title AS article2, similarity
+ORDER BY similarity DESCENDING, article1, article2
+---
 
 == Ontology Import
 
@@ -28,6 +51,13 @@ And set the config for importing ontologies:
 call n10s.graphconfig.init({ handleVocabUris: "IGNORE", classLabel: "Topic", subClassOfRel: "broader"});
 ----
 
+Add extra tag to `Topic` nodes so that the linkage happens automatically
+[source,cypher]
+----
+MATCH (t:Topic) set t:Resource
+----
+
+
 === Preview a smaller version of the concept scheme
 
 [source,cypher]
@@ -46,7 +76,7 @@ Let's 'clean' the taxonomy: remove redundant `broader` relationships (from Wikid
 
 [source,cypher]
 ----
-match (s:Concept)-[shortcut:broader]->(:Concept)<-[:broader*2..]-(s)
+match (s:Topic)-[shortcut:broader]->(:Topic)<-[:broader*2..]-(s)
 delete shortcut;
 ----
 
@@ -58,16 +88,16 @@ This will require returning articles both directly or indirectly connected to th
 
 [source,cypher]
 ----
-MATCH path = (:Concept {prefLabel: "NoSQL database management system"})<-[:broader*0..]-(sc)<-[:refers_to]-(art:Article)
-return art.title, [x in nodes(path) where x:Concept | coalesce(x.prefLabel,"") + coalesce(x.label,"") ]
+MATCH path = (:Topic {prefLabel: "NoSQL database management system"})<-[:broader*0..]-(sc)<-[:about]-(art:Article)
+return art.title, [x in nodes(path) where x:Topic | coalesce(x.prefLabel,"") + coalesce(x.label,"") ] as explanation
 ----
 
 or using the inferencing method in n10s
 
 [source,cypher]
 ----
-match (c:Concept {prefLabel: "NoSQL database management system"})
-call n10s.inference.nodesInCategory(c, { inCatRel: "refers_to"}) yield node as article
+match (c:Topic {prefLabel: "NoSQL database management system"})
+call n10s.inference.nodesInCategory(c, { inCatRel: "about"}) yield node as article
 return article.title as result
 ----
 
@@ -75,13 +105,22 @@ return article.title as result
 
 __Read next__ type of queries for recommendation/personalisation.
 
-Use this query to create a search phrase in Bloom and visually explore recommendation paths.
+Use these queries to create a search phrase in Bloom and visually explore recommendation paths.
+
+
+Article by title: `$title`
 
 [source,cypher]
 ----
-match simpath = (a:Article)-[:refers_to]->(cat)-[:broader*0..1]->()<-[:broader*0..1]-()<-[:refers_to]-(other)
+match (a:Article) where a.title = $title return a
+----
+
+
+[source,cypher]
+----
+match simpath = (a:Article)-[:about]->(cat)-[:broader*0..1]->()<-[:broader*0..1]-()<-[:about]-(other)
 where a.uri = "https://dev.to/qainsights/performance-testing-neo4j-database-using-bolt-protocol-in-apache-jmeter-1oa9"
-return other.title, [x in nodes(simpath) where x:Concept | coalesce(x.prefLabel,x.label) ] as explain
+return other.title, [x in nodes(simpath) where x:Topic | coalesce(x.prefLabel,x.label) ] as explain
 ----
 
 The quality of the results can be improved by adding another ontology (software stack onto)
