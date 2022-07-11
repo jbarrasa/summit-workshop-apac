@@ -31,7 +31,7 @@ CALL gds.nodeSimilarity.stream('articleSimGraph')
 YIELD node1, node2, similarity
 RETURN gds.util.asNode(node1).title AS article1, gds.util.asNode(node2).title AS article2, similarity
 ORDER BY similarity DESCENDING, article1, article2
----
+----
 
 == Ontology Import
 
