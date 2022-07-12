@@ -12,6 +12,10 @@ and https://github.com/jbarrasa/summit-workshop-apac/tree/main/data[this set of 
 
 == Some algos?
 
+Let's quickly compute similarity between articles. 
+
+Step 1: Create a graph projection
+
 [source,cypher]
 ----
 CALL gds.graph.project(
@@ -25,12 +29,32 @@ CALL gds.graph.project(
 );
 ----
 
+Step 2 (option 1) : Run similarity algo and stream results
+
 [source,cypher]
 ----
 CALL gds.nodeSimilarity.stream('articleSimGraph')
 YIELD node1, node2, similarity
 RETURN gds.util.asNode(node1).title AS article1, gds.util.asNode(node2).title AS article2, similarity
 ORDER BY similarity DESCENDING, article1, article2
+----
+
+Step 2 (option 2) : Run similarity algo and persist results as relationships
+
+[source,cypher]
+----
+CALL gds.nodeSimilarity.write('articleSimGraph', {
+    writeRelationshipType: 'similar_to',
+    writeProperty: 'score', 
+    similarityCutoff: 0.5 
+})
+YIELD nodesCompared, relationshipsWritten
+----
+
+[source,cypher]
+----
+match (a1:Article)-[st:similar_to]-(a2:Article)
+return a1.title, a2.title, st.score
 ----
 
 == Ontology Import
@@ -103,9 +127,9 @@ return article.title as result
 
 == Some Semantic searches on the KG (2)
 
-__Read next__ type of queries for recommendation/personalisation.
+__"Read next"__ type of queries for recommendation/personalisation.
 
-Use these queries to create a search phrase in Bloom and visually explore recommendation paths.
+__(tip: You can use these queries to create a search phrase in Bloom and visually explore recommendation paths)__
 
 
 Article by title: `$title`
